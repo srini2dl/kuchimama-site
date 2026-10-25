@@ -7,3 +7,6 @@ h1 { line-height: 1.2; }
 a { color: var(--accent); }
 .muted { color: var(--muted); }
 code { font-size: 0.9em; }
+.yt { display: inline-block; padding: 8px 16px; border-radius: 6px; background: #ff0000; color: #fff; text-decoration: none; font-weight: 600; }
+.yt-icon { font-size: 0.8em; margin-right: 4px; }
+.box { margin: 24px 0; padding: 4px 20px; border: 1px solid #ccc; border-radius: 8px; text-align: left; }
